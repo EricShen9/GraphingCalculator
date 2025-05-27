@@ -26,19 +26,12 @@ A lightweight, interactive graphing calculator built in Java using Swing. It all
 ## Folder Structure
 
 GraphingCalculatorProject/
-│
-├── src/
-│   ├── GraphingCalculator.java     # Main class with GUI window and input field
-│   └── GraphPanel.java             # Custom JPanel that handles graph rendering
-│
-├── lib/
-│   └── exp4j-0.4.8.jar             # External math expression library
-│
-├── .vscode/
-│   ├── launch.json                # VS Code launch configuration
-│   └── settings.json              # VS Code Java project settings
-│
-└── README.md
+   src/
+      GraphingCalculator.java     # Main class with GUI window and input field
+      GraphPanel.java             # Custom JPanel that handles graph rendering
+   lib/
+      exp4j-0.4.8.jar             # External math expression library
+   README.md
 
 ---
 
