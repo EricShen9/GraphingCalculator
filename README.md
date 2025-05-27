@@ -25,12 +25,12 @@ A lightweight, interactive graphing calculator built in Java using Swing. It all
 
 ## Folder Structure
 
-GraphingCalculatorProject/\n
-   src/\n
-      GraphingCalculator.java     # Main class with GUI window and input field\n
-      GraphPanel.java             # Custom JPanel that handles graph rendering\n
-   lib/\n
-      exp4j-0.4.8.jar             # External math expression library\n
+GraphingCalculatorProject/<br>
+   src/<br>
+      GraphingCalculator.java     # Main class with GUI window and input field<br>
+      GraphPanel.java             # Custom JPanel that handles graph rendering<br>
+   lib/<br>
+      exp4j-0.4.8.jar             # External math expression library<br>
    README.md
 
 ---
